@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+#flowchart-container {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#question {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #367c39;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
