@@ -9,7 +9,7 @@ An interactive web-based tool to help users determine the correct English articl
 - **Free to Use**: Hosted via GitHub Pages.
 
 ## Live Demo
-Check out the live version of the tool [here](#).
+Check out the live version of the tool [here](https://micahammon.github.io/English-Article-Helper/index.html).
 
 ## How to Use
 1. Open the hosted webpage.
